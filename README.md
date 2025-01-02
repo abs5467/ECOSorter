@@ -37,7 +37,7 @@ I worked on the code for ECOSorter using Python and TensorFlow with machine lear
 
 ---
 ## Impacts
-- Technical Impacts: ECOSoter uses machine learning to ease waste sorting, which helps in reducing landfill waste and minimizing the need for human intervention. However, it may face errors in waste identification and may require regular maintenance.
-- Social Impacts:
-- Environmental Impacts:
-- Economic Impacts:
+- **Technical Impacts**: ECOSoter uses machine learning to ease waste sorting, which helps in reducing landfill waste and minimizing the need for human intervention. However, it may face errors in waste identification and may require regular maintenance.
+- **Social Impacts**:
+- **Environmental Impacts**:
+- **Economic Impacts**:
