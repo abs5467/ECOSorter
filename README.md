@@ -45,3 +45,10 @@ ECOSorter has positive social impacts as it improves health through reduced poll
 ECOSorter helps reduce landfill waste and environmental harm by lowering greenhouse gas emissions, saving resources through recycling, preventing pollution from hazardous waste, and conserving energy with efficient recycling practices.
 - **Economic Impacts**:
 ECOSorter reduces waste management and energy costs, generates revenue from recycling and composting, saves raw material expenses, and creates jobs in the waste management sector.
+
+---
+## Future Iterations
+
+---
+
+## Research References
