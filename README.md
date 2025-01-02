@@ -18,12 +18,12 @@ From our research, we see that Toronto produces nearly 830,000 tonnes of waste a
 Unlike standard trash cans, EcoSorter offers an innovative automated sorting system, making waste disposal more efficient. Compared to other automated trash can models, like Russia's limited public automated trash cans and Pan Am's time-consuming sorting, which also requires human assistance, EcoSorter allows for quick, automated waste disposal for not only the public but for households as well.
 
 ## Design
-### Physical Design
+#### Physical Design
 Our design features a standard trash can divided into three sections, garbage, recycling, and compost. When the waste is thrown into the trash can, it lands on a surface with cameras that take a picture of the waste. The images taken will then be processed through Python code using machine learning to identify the waste. Based on the output given by the code, the system adjusts the platform's planks to guide the waste into the correct bin. 
 
 Images of the physical prototype and CAD design can be found below.
 
-### Code Design
+#### Code Design
 
 
 
