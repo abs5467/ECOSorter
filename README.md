@@ -7,6 +7,7 @@
 - [Design](https://github.com/abs5467/EcoSorter#design)
 - [Impacts](https://github.com/abs5467/EcoSorter#impacts)
 - [Future Iterations](https://github.com/abs5467/EcoSorter#future-iterations)
+- [References](https://github.com/abs5467/EcoSorter#references)
 
 ## Introduction
 I participated in the Metropolitan Engineering Competition at Toronto Metropolitan University (TMU) in the Innovative Design Category by developing EcoSorter, an automated waste-sorting system, in a team of 6 members. The 6 members included students of multiple engineering disciplines, such as computer, electrical, aerospace, and biomedical. We worked together to bring a physical prototype, some technical components, like a code written in Python, and a 20-minute slideshow presentation. Out of 11 teams, our team secured 4th place, showcasing our innovative approach and hard work.
@@ -63,8 +64,12 @@ ECOSorter reduces waste management and energy costs, generates revenue from recy
 ---
 
 <details>
+
+<!-- Start of References section -->
+<a name="References"></a>
+
   <summary>Research References</summary>
-  
+
 1. Waste Strategy - City of Toronto. [Link to source](https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-management/waste-strategy/)
 2. Solid Waste Reports & Diversion Rates. [Link to source](https://www.toronto.ca/services-payments/recycling-organics-garbage/solid-waste-reports/)
 3. CBC News on Torontoians making mistakes with what ends up in their trash. [Link to source](https://www.cbc.ca/news/canada/toronto/toronto-extra-large-bins-1.3329217#:~:text=Mike%20Layton%20tweeted%20a%20chart,have%20been%20in%20the%20trash)
