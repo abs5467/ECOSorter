@@ -35,6 +35,12 @@ I worked on the code for ECOSorter using Python and TensorFlow with machine lear
 ![joint_mechanisms](https://github.com/user-attachments/assets/c589e3ba-1bb0-4f3e-bb35-52b8072c8469)
 
 ---
+
+![ECOSorter Prototype 1](https://github.com/user-attachments/assets/8e6d05c8-908a-4961-b6f2-b0aa74424784)
+![ECOSorter Prototype 2](https://github.com/user-attachments/assets/f9d9e0c1-7bdb-489e-8ab1-c06481d8ecbf)
+
+
+---
 ## Impacts
 - **Technical Impacts**:
 ECOSoter uses machine learning to ease waste sorting, which helps in reducing landfill waste and minimizing the need for human intervention. However, it may face errors in waste identification and may require regular maintenance.
