@@ -37,8 +37,8 @@ I worked on the code for ECOSorter using Python and TensorFlow with machine lear
 
 ---
 
-![ECOSorter Prototype 1](https://github.com/user-attachments/assets/8e6d05c8-908a-4961-b6f2-b0aa74424784)
-![ECOSorter Prototype 2](https://github.com/user-attachments/assets/f9d9e0c1-7bdb-489e-8ab1-c06481d8ecbf)
+<img src ="https://github.com/user-attachments/assets/8e6d05c8-908a-4961-b6f2-b0aa74424784" width="400px" height="300px">
+<img src ="https://github.com/user-attachments/assets/f9d9e0c1-7bdb-489e-8ab1-c06481d8ecbf" width="400px" height="300px">
 
 
 ---
@@ -65,7 +65,6 @@ ECOSorter reduces waste management and energy costs, generates revenue from recy
 
 <details>
 
-<!-- Start of References section -->
 <a name="References"></a>
 
   <summary>Research References</summary>
