@@ -7,7 +7,6 @@
 - [Design](https://github.com/abs5467/EcoSorter#design)
 - [Impacts](https://github.com/abs5467/EcoSorter#impacts)
 - [Future Iterations](https://github.com/abs5467/EcoSorter#future-iterations)
-- [Research References](https://github.com/abs5467/EcoSorter#research-references)
 
 ## Introduction
 I participated in the Metropolitan Engineering Competition at Toronto Metropolitan University (TMU) in the Innovative Design Category by developing EcoSorter, an automated waste-sorting system, in a team of 6 members. The 6 members included students of multiple engineering disciplines, such as computer, electrical, aerospace, and biomedical. We worked together to bring a physical prototype, some technical components, like a code written in Python, and a 20-minute slideshow presentation. Out of 11 teams, our team secured 4th place, showcasing our innovative approach and hard work.
@@ -61,6 +60,16 @@ ECOSorter reduces waste management and energy costs, generates revenue from recy
   <summary>Research References</summary>
   
 1. Waste Strategy - City of Toronto. [Link to source](https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-management/waste-strategy/)
+2. Solid Waste Reports & Diversion Rates. [Link to source](https://www.toronto.ca/services-payments/recycling-organics-garbage/solid-waste-reports/)
+3. CBC News on Torontoians making mistakes with what ends up in their trash. [Link to source](https://www.cbc.ca/news/canada/toronto/toronto-extra-large-bins-1.3329217#:~:text=Mike%20Layton%20tweeted%20a%20chart,have%20been%20in%20the%20trash)
+4. Toronto Pan Am Waste Sorting Machine. [Link to source](https://www.tpasc.ca/content/toronto-pan-am-sports-centre-continues-embrace-sustainability-friendlier-reusable-takeout)
+5. Environmental and Social Impact of Sustainable Waste Management. [Link to source](https://www.ljpwastesolutions.com/about-us/blogs/entryid/96/the-environmental-and-social-impact-of-sustainable-waste-management)
+6. Pollution - World Bank. [Link to source](https://www.worldbank.org/en/topic/pollution#:~:text=Pollution%20stunts%20economic%20growth%2C%20exacerbates,end%20up%20suffering%20the%20most)
+7. Why is it important to sort our waste properly? [Link to source](https://www.ecosystem.fr/en/article/198/why-is-it-important-to-sort-our-waste-properly 
+)
+8. Economic Impact and Challenges in Waste Management Article. [Link to source](https://www.jpsr.pharmainfo.in/Documents/Volumes/vol13issue03/jpsr13032109.pdf 
+)
+9. The Economic Impact of Food Waste. [Link to source](https://shapiroe.com/blog/economic-impact-of-food-waste-effects/)
 </details>
 
 
