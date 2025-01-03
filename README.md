@@ -57,6 +57,9 @@ ECOSorter reduces waste management and energy costs, generates revenue from recy
   - The heat cleaning mechanism used in dishwashers can be implemented to help clean the planks between uses to avoid contamination.
 ---
 
-## Research References
+<details>
+  <summary>Research References</summary>
+1. Add Name here. [Link to source](add link here, http)
+</details>
 
 
