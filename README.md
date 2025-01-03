@@ -59,6 +59,7 @@ ECOSorter reduces waste management and energy costs, generates revenue from recy
 
 <details>
   <summary>Research References</summary>
+  
 1. Waste Strategy - City of Toronto. [Link to source](https://www.toronto.ca/services-payments/recycling-organics-garbage/waste-management/waste-strategy/)
 </details>
 
