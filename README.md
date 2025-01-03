@@ -48,7 +48,15 @@ ECOSorter reduces waste management and energy costs, generates revenue from recy
 
 ---
 ## Future Iterations
-
+- **Light Refraction Detection**:
+  - This would add the ability to differentiate from materials and improve object recognition.
+- **Weight & International Food Detection**:
+  - A steel plank can be used to help recognize objects using weight as it can withstand a weight of up to 250 lbs.
+  - We can also implement a way of identifying certain foods based on set properties which will help sort various food waste from different cultures.
+- **Cleaning Mechanism**:
+  - The heat cleaning mechanism used in dishwashers can be implemented to help clean the planks between uses to avoid contamination.
 ---
 
 ## Research References
+
+
