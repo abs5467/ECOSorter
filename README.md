@@ -27,7 +27,7 @@ Our design features a standard trash can divided into three sections, garbage, r
 #### Code Design
 I worked on the code for ECOSorter using Python and TensorFlow with machine learning to predict images of waste and determine the correct disposal location. The system identifies the prediction with the highest percentage, and this information is used to automate the sorting and disposal process.
 
-- This code can be accessed through the master branch.
+- [View ECOSorter Python Script](.ECOSorter.py)
 
 #### Images of the Design
 ![dimensions](https://github.com/user-attachments/assets/3ed3ce73-f3b1-4a28-ae9e-c24a5939f5d3)
